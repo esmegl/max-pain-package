@@ -1,0 +1,6 @@
+docker
+pytest
+elasticsearch
+asks
+cryptofeed
+trio
